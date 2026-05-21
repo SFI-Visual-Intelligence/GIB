@@ -1,3 +1,5 @@
+Paper: Gated information bottleneck for generalization in sequential environments ([Link](https://api.nva.unit.no/publication/0198cc67f0df-938a0db6-e6f8-4f50-bed5-a13c32a21105))
+
 # GIB: Gated Information Bottleneck for Generalization in Sequential Environments
 
 Pytorch implmentation of the Gated Infromation Bottleneck (GIB) for Generalization in Sequential Environments (https://arxiv.org/abs/2110.06057)
